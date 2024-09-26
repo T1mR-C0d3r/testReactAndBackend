@@ -5,11 +5,11 @@ Requirements:
 2. Installed Mysql server
 
 To START you need:
-1.1. Go to the directory MyReactNativeProject/slider in the terminal
-1.2. Write npm start
-1.3. Ready.
-2.1. Start the node server
-2.2. Change the data in db_connection.js to your data.
+1. Go to the directory MyReactNativeProject/slider in the terminal
+2. Write npm start
+3. Ready.
+4. Start the node server
+5. Change the data in db_connection.js to your data.
 
 ---------------------------------------------------------------------
 
@@ -20,8 +20,8 @@ To START you need:
 2. Установленный Mysql server 
 
 Для ЗАПУСА нужно:
-1.1. Перейти в дерикоторию MyReactNativeProject/slider в терминале
-1.2. Написать npm start
-1.3. Готов.
-2.1. Запустить node сервер
-2.2. Поменять данные в db_connection.js на свои данные. 
+1. Перейти в дерикоторию MyReactNativeProject/slider в терминале
+2. Написать npm start
+3. Готов.
+4. Запустить node сервер
+5. Поменять данные в db_connection.js на свои данные. 
